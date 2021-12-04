@@ -1,0 +1,17 @@
+Data not available 
+--------------------------------------------
+We have no data available on system to contact patient. therefore we are not at able to verify any claim detail at all hence claim is inconclusive.
+
+wrong no 
+--------------------------------------------
+We have have called on [] contact no to verify detail with  patient.  but receiver in call has informed that it is wrong no. therefore we are not at able to verify any claim detail at all hence claim is inconclusive.
+
+
+patient do not pick up phone  
+--------------------------------------------
+We have have called on [] contact no to verify detail with  patient.  
+
+Call Date 	Call time  call status
+
+
+but call was never received. therefore we are not at able to verify any claim detail at all hence claim is inconclusive.
